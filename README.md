@@ -81,7 +81,7 @@ Sistem, "http://127.0.0.1:8000" adresinde çalışacaktır.
    php artisan add:transaction --user_id= --subscription_id=
    ```
 
-# Enpointler
+# Endpointler
 
 
 1. Kayıt olmak için aşağıdaki endpoint'i kullanın: \
